@@ -1,10 +1,10 @@
-## Olá! Eu sou a Patricia Maizena! 
+## Olá! Eu sou a Patricia Massena! 
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/patmassena)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patricia-massena/)
 
 ### Sobre mim!<br/>
-
+Me chamo Patricia, sou estudante de Análise e Desenvolvimento de Sistemas e tecnóloga em Design Gráfico, e apaixonada por arte e música! Estou sempre tentando incorporar esses elementos em meus projetos, para criar soluções inovadoras e criativas. Acredito que a arte é uma linguagem universal que conecta culturas e pessoas, por isso podem facilmente me achar em galerias, museus, feiras e shows em busca de inspiração ✨ Combinando minhas habilidades em tecnologia e design, espero contribuir para o mundo com soluções únicas e relevantes. 
 
 <br/>
 
